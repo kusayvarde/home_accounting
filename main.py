@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # =================== Kusay,Hasan,Mustafa,Amr,Muhammed,Amer Z,Amer ====================
+# =================== uv run streamlit run .\main.py ====================
 
 st.set_page_config(page_title="Home Accounting", page_icon="💰", layout="centered")
 
