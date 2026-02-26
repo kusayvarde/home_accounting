@@ -21,7 +21,7 @@ A simple and intuitive Streamlit application for managing shared expenses among 
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/kusayvarde/home_accounting.git
 cd home_accounting
 ```
 
